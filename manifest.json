@@ -1,0 +1,13 @@
+{
+    "domain": "light_state_management",
+    "name": "Light State Management",
+    "version": "1.0.0",
+    "documentation": "https://github.com/yourusername/light_state_management",
+    "dependencies": [
+        "json_storage"
+    ],
+    "requirements": [],
+    "codeowners": [],
+    "config_flow": true,
+    "iot_class": "local_push"
+}
